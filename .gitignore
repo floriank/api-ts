@@ -1,5 +1,4 @@
 typings
 node_modules
-app.js
+*.js
 *.map
-bin/www.js
